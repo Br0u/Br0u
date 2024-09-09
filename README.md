@@ -16,7 +16,7 @@
 
 💬 Ask me about **Machine Learning, Deep learning, C++, Python, MERN or anything [here](https://github.com/Br0u/Br0u/issues)**
 
-🟤🟢🔵****🔴🟡🟠
+🟤🟢🔵🔴🟡🟠
 
  </div>
  
