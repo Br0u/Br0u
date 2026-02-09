@@ -9,14 +9,11 @@ MEng Computer Engineering @ University of Guelph · Full-stack (MERN) · ML/Syst
 </p>
 
 <p align="left">
-<a href="mailto:nightknightbrou@outlook.com">
-  <img src="https://img.shields.io/badge/Email-nightknightbrou%40outlook.com-111?style=flat&logo=gmail&logoColor=white" />
+<a href="mailto:wusg0315@qq.com">
+  <img src="https://img.shields.io/badge/Email-wusg0315%40qq.com-111?style=flat&logo=gmail&logoColor=white" />
 </a>
-<a href="https://www.linkedin.com/in/brou-wu-482442326/" target="_blank">
-  <img src="https://img.shields.io/badge/LinkedIn-brou--wu-111?style=flat&logo=linkedin&logoColor=white" />
-</a>
-<a href="https://webofbrou.netlify.app/" target="_blank">
-  <img src="https://img.shields.io/badge/Portfolio-webofbrou-111?style=flat&logo=vercel&logoColor=white" />
+<a href="https://13log.live" target="_blank">
+  <img src="https://img.shields.io/badge/Portfolio-13log.live-111?style=flat&logo=vercel&logoColor=white" />
 </a>
 </p>
 
